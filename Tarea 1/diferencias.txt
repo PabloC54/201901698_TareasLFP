@@ -1,0 +1,3 @@
+El paradigma de lenguajes imperativo (qué) ordena ejecutar una acción sin entrar en detalles de cómo hacerlo, esto lo vemos en python con el uso de librerías, por ejemplo.
+
+El paradigma de lenguajes declarativo (cómo) ordena el ejecutar una acción detallando una lista de pasos en su contenido, no dando lugar a incertidumbre. El código bajo este paradigma especifica con detalle una acción, decidiendo nosotros cómo hacerlo.
